@@ -1,6 +1,6 @@
 package gukas.proj.animal;
 
-public class Chiken extends Animal{
+public class Chicken extends Animal{
     @Override
     public void makeSound(){
         System.out.println("Kwo Kwo..!");
